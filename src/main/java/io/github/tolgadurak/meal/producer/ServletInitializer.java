@@ -1,4 +1,4 @@
-package io.github.tolgadurak;
+package io.github.tolgadurak.meal.producer;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

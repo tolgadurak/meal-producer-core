@@ -1,4 +1,4 @@
-package io.github.tolgadurak;
+package io.github.tolgadurak.meal.producer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
